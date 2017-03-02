@@ -1,3 +1,4 @@
+// var chai = require('chai')
 global.expect = require('expect')
 
 const babel = require('babel-core');
